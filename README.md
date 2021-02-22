@@ -16,3 +16,7 @@ The Data Science Workshop equips you with the basic skills you need to start wor
 - Discover advanced techniques to improve the accuracy of your model
 - Understand how to speed up the process of adding new features
 - Simplify your machine learning workflow for production
+
+## sources
+ - packt ebook
+ - workshops
